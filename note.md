@@ -12,12 +12,17 @@
 历史上的土方岁三本是一介卖药郎（家传石田散药），因结识近藤勇并被其一心想要成为武士报效公家的精神所感动，随后一起创建并率领新选组，一路佐幕攘夷。到最后，队员死的死伤的伤，或因政治理念不同选择脱队。<br>
 而土方，在明知幕府已经无力回天，日本终将开国的时代潮流下，身着洋装却手握日本刀，面对强敌的枪炮丝毫没有畏惧，战斗到最后一刻，将武士道精神贯彻到最终，因此也被称之为日本“最后的武士”。土方岁三命丧黄泉之地，正是电影标题中《百万美元的五棱星》所指代的地方——北海道函馆市。
 
+![](./images/snapshot_000020211.jpg)
+
+
 ![五棱郭塔内拜访的土方岁三像](./images/土方岁三像.jpg)
 
 ### 1.1 旅游景点
 #### 1.1.1 金森红砖仓库
 
 ![金森红砖仓库](./images/金森红砖仓库.jpg)
+
+![](./images/snapshot_005441445.jpg)
 
 **地址**：北海道函館市末広町14番12号<br>
 **门票**：免费<br>
@@ -55,10 +60,18 @@
 
 该厅面积约440平方米，可容纳约200人，配备照明、音响等设备，可用于音乐会、戏剧、讲座、电影欣赏，以及各种展览会、会议、婚礼和聚会等。过去，各种类型的音乐家曾在此举办音乐会。
 
+### 西波止场（金森红砖仓库隔壁的港口）
+
+![](./images/snapshot_00.52.58.961.jpg)
+
 **参考网站**
 https://hakodate-kanemori.com/
 
 #### 1.1.2 旧函馆区公会堂
+
+![旧函馆区公会堂](./images/旧函馆区公会堂.png)
+
+![](./images/snapshot001031416.jpg)
 
 **地址**：北海道函館市元町11番13号
 
@@ -90,19 +103,17 @@ https://hakodate-kanemori.com/
 2026年1月20日（周二）<br>
 
 
+![](./images/旧函馆区1F.jpg)
 
+![](./images/旧函馆区2F.jpg)
 
-![旧函馆区公会堂](./images/旧函馆区公会堂.png)
+![](./images/旧函馆区快照.png)
 
-![alt text](./images/旧函馆区1F.jpg)
+![](./images/snapshot_001148243.jpg)
 
-![alt text](./images/旧函馆区2F.jpg)
+![](./images/旧函馆区服饰店.png)
 
-![alt text](./images/旧函馆区快照.png)
-
-![alt text](./images/旧函馆区服饰店.png)
-
-![alt text](./images/旧函馆区纪念品店.png)
+![](./images/旧函馆区纪念品店.png)
 
 
 **公会堂的主要特色**
@@ -162,6 +173,10 @@ https://hakodate-kanemori.com/
 ③乘坐有轨电车，在“十字街站”下车。 然后步行10分钟到“山麓站前”。 再乘坐索道到山顶。<br>
 (从十字街到山麓站有一个陡峭的斜坡，请小心。)
 
+![](./images/snapshot_014156444.jpg)
+
+![](./images/snapshot_014337445.jpg)
+
 
 #### 1.1.4 五棱郭公园
 
@@ -183,7 +198,7 @@ https://hakodate-kanemori.com/
 
 五棱郭公园里还有一座箱馆奉行所。此地在电影里也有登场。箱馆奉行所是幕府在日本北边设立的役所，主要负责与外国交涉以及虾夷地(后更名为北海道)管理等业务。在幕府解体后，箱馆奉行所也迎来了终结。直至近代，才按照过去的历史资料等对箱馆奉行所进行了复原重建。现在的箱馆奉行所对一般民众开放，里面陈列了关于五棱郭以及箱馆战争的历史资料等。
 
-**五棱郭塔**
+##### 五棱郭塔
 
 **地址**：北海道函館市五稜郭町43-9
 
@@ -196,6 +211,26 @@ https://hakodate-kanemori.com/
 ![五棱郭塔展望2层](./images/五棱郭塔展望2层.png)
 
 ![Goryokaku Tower](./images/Goryokaku_Tower.png)
+
+![](./images/snapshot_005954422.jpg)
+
+![](./images/snapshot_002245822.jpg)
+
+![](./images/snapshot_010036879.jpg)
+
+![](./images/snapshot_010045535.jpg)
+
+![](./images/snapshot_005753519.jpg)
+
+![](./images/snapshot_005703775.jpg)
+
+![](./images/snapshot_010030993.jpg)
+
+![](./images/snapshot_010034007.jpg)
+
+![](./images/snapshot_012110618.jpg)
+
+![](./images/snapshot_01.27.10.515.jpg)
 
 参考网站：https://www.goryokaku-tower.co.jp/
 
@@ -211,9 +246,13 @@ https://hakodate-kanemori.com/
 
 ![alt text](./images/北海道东照宫.avif)
 
+![](./images/snapshot_004714598.jpg)
+
 #### 1.1.6 函馆市营电车汤之川站
 
 ![alt text](./images/函馆市电.avif)
+
+![](./images/snapshot_003044522.jpg)
 
 函馆市电自1913年开始运营，至今已有100多年的历史。它是东京以北第一条马拉铁路，后来根据公众需求进行了电气化，并经历了多次改造才发展到现在。<br>
 汤之川巴士站位于**汤之川温泉**的入口处，该温泉是北海道南部首屈一指的温泉胜地之一。
@@ -221,6 +260,10 @@ https://hakodate-kanemori.com/
 #### 1.1.7 八幡坂(坂道元町)
 
 ![alt text](./images/八幡坂冬.jpg)
+
+![](./images/snapshot_005124904.jpg)
+
+![](./images/snapshot_005153352.jpg)
 
 **地址**：北海道函館市元町・末広町
 
@@ -232,11 +275,50 @@ https://hakodate-kanemori.com/
 
 从JR函馆站步行约1分钟就可抵达。
 
-#### 1.1.9 大沼公园
+![](./images/snapshot_01.44.02.471.jpg)
 
-从JR函馆站乘坐特快列车30分钟，从大沼公园站步行5分钟，就可抵达大沼国家公园。<br>
-特别是在冬季，雪地徒步旅行、冰上垂钓、雪地摩托，等多种冬季活动
+![](./images/snapshot_002502821.jpg)
 
+
+#### 1.1.9 小丑汉堡
+
+![](./images/snapshot_005444281.jpg)
+
+![](./images/snapshot_005449150.jpg)
+
+![](./images/snapshot_005454038.jpg)
+
+![](./images/snapshot_005504440.jpg)
+
+### 1.1.10 函馆警察署
+
+![](./images/snapshot_001941038.jpg)
+
+### 1.1.11 函馆普乐美雅凯宾总统酒店
+
+![](./images/snapshot_003749604.jpg)
+
+![](./images/snapshot_003835348.jpg)
+
+![](./images/snapshot_003859376.jpg)
+
+### 1.1.12 JR函馆站
+
+![](./images/snapshot_01.43.47.576.jpg)
+
+![](./images/snapshot_01.43.49.803.jpg)
+
+### 1.1.13 十字街
+
+![](./images/snapshot_00.38.21.361.jpg)
+
+### 1.1.14 新函馆北斗站
+
+![](./images/snapshot_01.07.21.242.jpg)
+
+![](./images/snapshot_01.07.41.057.jpg)
+
+![](./images/snapshot_01.07.48.629.jpg)
 
 https://www.hakodate.travel/chs/courses/enjoy-exploring-hakodate-by-tram/
 
