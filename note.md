@@ -1,92 +1,3 @@
-<style>
-	* {
-		margin: 0;
-		padding: 0;
-		box-sizing: border-box;
-	}
-
-	body {
-		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-		/* background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); */
-		color: #333;
-		line-height: 1.6;
-		padding: 20px;
-		min-height: 100vh;
-	}
-
-	.container {
-		max-width: 1200px;
-		margin: 0 auto;
-		padding: 5px;
-	}
-
-	.image-gallery {
-		display: flex;
-		flex-wrap: nowrap;
-		justify-content: center;
-		gap: 30px;
-		margin-bottom: 40px;
-	}
-
-	.image-card {
-		flex: 1;
-		min-width: 300px;
-		max-width: 500px;
-		background: white;
-		border-radius: 12px;
-		overflow: hidden;
-		box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-		transition: transform 0.3s ease, box-shadow 0.3s ease;
-	}
-
-	.image-card:hover {
-		transform: translateY(-5px);
-		box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
-	}
-
-	.image-container {
-		width: 100%;
-		height: 300px;
-		overflow: hidden;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		background: #f8f9fa;
-	}
-
-	.image-container img {
-		max-width: 100%;
-		max-height: 100%;
-		object-fit: contain;
-		transition: transform 0.5s ease;
-	}
-
-	.image-card:hover .image-container img {
-		transform: scale(1.05);
-	}
-
-	.caption {
-		padding: 20px;
-		text-align: center;
-	}
-
-	.caption p {
-		color: #7f8c8d;
-		line-height: 1.6;
-	}
-
-	@media (max-width: 768px) {
-		.image-gallery {
-			flex-direction: column;
-			align-items: center;
-		}
-
-		.image-card {
-			min-width: 85%;
-		}
-	}
-</style>
-
 
 <img src="./images/日本地图截图.png">
 
@@ -101,42 +12,22 @@
 历史上的土方岁三本是一介卖药郎（家传石田散药），因结识近藤勇并被其一心想要成为武士报效公家的精神所感动，随后一起创建并率领新选组，一路佐幕攘夷。到最后，队员死的死伤的伤，或因政治理念不同选择脱队。<br>
 而土方，在明知幕府已经无力回天，日本终将开国的时代潮流下，身着洋装却手握日本刀，面对强敌的枪炮丝毫没有畏惧，战斗到最后一刻，将武士道精神贯彻到最终，因此也被称之为日本“最后的武士”。土方岁三命丧黄泉之地，正是电影标题中《百万美元的五棱星》所指代的地方——北海道函馆市。
 
-<body>
-    <div class="container">
-        <div class="image-gallery">
-            <div class="image-card">
-                <div class="image-container">
-                    <img src="./images/snapshot_000020211.jpg" alt="山脉景观">
-                </div>
-                <div class="caption">
-                    <p>《百万美元的五棱星》截图</p>
-                </div>
-            </div>
-            <div class="image-card">
-                <div class="image-container">
-                    <img src="./images/土方岁三像.jpg" alt="海滩景色">
-                </div>
-                <div class="caption">
-                    <p>土方岁三像</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</body>
+<p align="center">
+	<img src="./images/snapshot_000020211.jpg" width=60%>
+	<img src="./images/土方岁三像.jpg" width=25%>
+</p>
 
 ## 1.1 路线计划
 
 ## 1.2 旅游景点
 ### 1.2.1 金森红砖仓库
 
-<div class="container">
-	<div class="zoomImage">
-		<img src="./images/金森红砖仓库.jpg">
-	</div>
-	<div>
-		<img src="./images/snapshot_005441445.jpg">
-	</div>
-</div>
+
+<p align="center">
+	<img src="./images/金森红砖仓库.jpg" width=45%>
+	<img src="./images/snapshot_005441445.jpg" width=45%>
+</p>
+
 
 **地址**：北海道函館市末広町14番12号<br>
 **门票**：免费<br>
@@ -156,32 +47,32 @@
 
 ![金森红砖仓库示意图](./images/金森红砖仓库示意图.png)
 
-<div class="container">
-	<div class="zoomImage">
-		<text>第一处 </text>
-		<a href="https://hakodate-kanemori.com/facilities/bayhakodate">BAY HAKODATE</a>
-		<img src="./images/BAY_HAKODATE.png">
-	</div>
-	<div>
-		<text>第二处 </text>
-		<a href="https://hakodate-kanemori.com/facilities/bayhakodate">金森洋物馆</a>
-		<img src="./images/金森洋物馆.png">
-	</div>
-</div>
+<center>
+	第一处 <a href="https://hakodate-kanemori.com/facilities/bayhakodate">BAY HAKODATE</a>
+	第二处 <a href="https://hakodate-kanemori.com/facilities/bayhakodate">金森洋物馆</a>
+	<br>
+	<p>
+		<img src="./images/BAY_HAKODATE.png" width=47%>
+		<img src="./images/金森洋物馆.png" width=47%>
+	</p>
+</center>
 
-**第三处 [函馆历史广场](https://hakodate-kanemori.com/facilities/historyplaza)**
 
-<img src="./images/函馆历史广场.png" width=420px>
+<center>
+	第三处 <a href="https://hakodate-kanemori.com/facilities/historyplaza">函馆历史广场</a>
+	第四处 <a href="https://hakodate-kanemori.com/facilities/historyplaza">金森大厅</a>
+	<br>
+	<p>
+	<img src="./images/函馆历史广场.png" width=47%>
+	<img src="./images/金森大厅.jpg" width=47%>
+	</p>
+</center>
 
-**第四处 [金森大厅](https://hakodate-kanemori.com/facilities/hall)**
-
-<img src="./images/金森大厅.jpg" width=600px>
-
-该厅面积约440平方米，可容纳约200人，配备照明、音响等设备，可用于音乐会、戏剧、讲座、电影欣赏，以及各种展览会、会议、婚礼和聚会等。过去，各种类型的音乐家曾在此举办音乐会。
+金森大厅面积约440平方米，可容纳约200人，配备照明、音响等设备，可用于音乐会、戏剧、讲座、电影欣赏，以及各种展览会、会议、婚礼和聚会等。过去，各种类型的音乐家曾在此举办音乐会。
 
 #### 西波止场（金森红砖仓库隔壁的港口）
 
-![](./images/snapshot_00.52.58.961.jpg)
+<img src="./images/snapshot_00.52.58.961.jpg" width=60%>
 
 **参考网站**
 https://hakodate-kanemori.com/
