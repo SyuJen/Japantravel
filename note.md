@@ -1,28 +1,142 @@
-![日本地图截图](./images/日本地图截图.png)
+<style>
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+	}
+
+	body {
+		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+		/* background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); */
+		color: #333;
+		line-height: 1.6;
+		padding: 20px;
+		min-height: 100vh;
+	}
+
+	.container {
+		max-width: 1200px;
+		margin: 0 auto;
+		padding: 5px;
+	}
+
+	.image-gallery {
+		display: flex;
+		flex-wrap: nowrap;
+		justify-content: center;
+		gap: 30px;
+		margin-bottom: 40px;
+	}
+
+	.image-card {
+		flex: 1;
+		min-width: 300px;
+		max-width: 500px;
+		background: white;
+		border-radius: 12px;
+		overflow: hidden;
+		box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+		transition: transform 0.3s ease, box-shadow 0.3s ease;
+	}
+
+	.image-card:hover {
+		transform: translateY(-5px);
+		box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+	}
+
+	.image-container {
+		width: 100%;
+		height: 300px;
+		overflow: hidden;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		background: #f8f9fa;
+	}
+
+	.image-container img {
+		max-width: 100%;
+		max-height: 100%;
+		object-fit: contain;
+		transition: transform 0.5s ease;
+	}
+
+	.image-card:hover .image-container img {
+		transform: scale(1.05);
+	}
+
+	.caption {
+		padding: 20px;
+		text-align: center;
+	}
+
+	.caption p {
+		color: #7f8c8d;
+		line-height: 1.6;
+	}
+
+	@media (max-width: 768px) {
+		.image-gallery {
+			flex-direction: column;
+			align-items: center;
+		}
+
+		.image-card {
+			min-width: 85%;
+		}
+	}
+</style>
+
+
+<img src="./images/日本地图截图.png">
+
 
 # 1 函馆
-
-![函馆各景点位置一览](./images/函馆各景点位置一览.png)
-
+<div align="center">
+<img src="./images/函馆各景点位置一览.png" alt="函馆各景点位置一览">
+</div>
 函馆(Hakodate)，位于北海道南部的渡岛半岛上，是北海道著名的港口城市，是《名侦探柯南：百万美元的五棱星》的拍摄地。
 
 土方岁三 - 江户时代末期有着“鬼之副长”之称的新选组副队长。<br>
 历史上的土方岁三本是一介卖药郎（家传石田散药），因结识近藤勇并被其一心想要成为武士报效公家的精神所感动，随后一起创建并率领新选组，一路佐幕攘夷。到最后，队员死的死伤的伤，或因政治理念不同选择脱队。<br>
 而土方，在明知幕府已经无力回天，日本终将开国的时代潮流下，身着洋装却手握日本刀，面对强敌的枪炮丝毫没有畏惧，战斗到最后一刻，将武士道精神贯彻到最终，因此也被称之为日本“最后的武士”。土方岁三命丧黄泉之地，正是电影标题中《百万美元的五棱星》所指代的地方——北海道函馆市。
 
-![](./images/snapshot_000020211.jpg)
-
-
-![五棱郭塔内拜访的土方岁三像](./images/土方岁三像.jpg)
+<body>
+    <div class="container">
+        <div class="image-gallery">
+            <div class="image-card">
+                <div class="image-container">
+                    <img src="./images/snapshot_000020211.jpg" alt="山脉景观">
+                </div>
+                <div class="caption">
+                    <p>《百万美元的五棱星》截图</p>
+                </div>
+            </div>
+            <div class="image-card">
+                <div class="image-container">
+                    <img src="./images/土方岁三像.jpg" alt="海滩景色">
+                </div>
+                <div class="caption">
+                    <p>土方岁三像</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
 
 ## 1.1 路线计划
 
 ## 1.2 旅游景点
 ### 1.2.1 金森红砖仓库
 
-![金森红砖仓库](./images/金森红砖仓库.jpg)
-
-![](./images/snapshot_005441445.jpg)
+<div class="container">
+	<div class="zoomImage">
+		<img src="./images/金森红砖仓库.jpg">
+	</div>
+	<div>
+		<img src="./images/snapshot_005441445.jpg">
+	</div>
+</div>
 
 **地址**：北海道函館市末広町14番12号<br>
 **门票**：免费<br>
@@ -42,25 +156,30 @@
 
 ![金森红砖仓库示意图](./images/金森红砖仓库示意图.png)
 
-**第一处 [BAY HAKODATE](https://hakodate-kanemori.com/facilities/bayhakodate)**
-
-![alt text](./images/BAY_HAKODATE.png)
-
-**第二处  [金森洋物馆](https://hakodate-kanemori.com/facilities/youbutsukan/)**
-
-![alt text](./images/金森洋物馆.png)
+<div class="container">
+	<div class="zoomImage">
+		<text>第一处 </text>
+		<a href="https://hakodate-kanemori.com/facilities/bayhakodate">BAY HAKODATE</a>
+		<img src="./images/BAY_HAKODATE.png">
+	</div>
+	<div>
+		<text>第二处 </text>
+		<a href="https://hakodate-kanemori.com/facilities/bayhakodate">金森洋物馆</a>
+		<img src="./images/金森洋物馆.png">
+	</div>
+</div>
 
 **第三处 [函馆历史广场](https://hakodate-kanemori.com/facilities/historyplaza)**
 
-![alt text](./images/函馆历史广场.png)
+<img src="./images/函馆历史广场.png" width=420px>
 
 **第四处 [金森大厅](https://hakodate-kanemori.com/facilities/hall)**
 
-![alt text](./images/金森大厅.jpg)
+<img src="./images/金森大厅.jpg" width=600px>
 
 该厅面积约440平方米，可容纳约200人，配备照明、音响等设备，可用于音乐会、戏剧、讲座、电影欣赏，以及各种展览会、会议、婚礼和聚会等。过去，各种类型的音乐家曾在此举办音乐会。
 
-### 西波止场（金森红砖仓库隔壁的港口）
+#### 西波止场（金森红砖仓库隔壁的港口）
 
 ![](./images/snapshot_00.52.58.961.jpg)
 
@@ -69,9 +188,9 @@ https://hakodate-kanemori.com/
 
 ### 1.2.2 旧函馆区公会堂
 
-![旧函馆区公会堂](./images/旧函馆区公会堂.png)
 
-![](./images/snapshot001031416.jpg)
+<img src="./images/旧函馆区公会堂.png" height=290px>
+<img src="./images/snapshot001031416.jpg" height=290px>
 
 **地址**：北海道函館市元町11番13号
 
@@ -164,7 +283,10 @@ https://hakodate-kanemori.com/
 
 **函馆山夜景**
 
-![函馆山夜景](./images/函馆山夜景.jpg)
+<div>
+	<img src="./images/函馆山夜景.jpg" width=300px>
+</div>
+
 
 有多种方法可以到达山顶，在那里你可以欣赏到绝美的夜景。
 以下为从JR函馆站出发的三种交通方式。供您参考。<br>
@@ -173,15 +295,15 @@ https://hakodate-kanemori.com/
 ③乘坐有轨电车，在“十字街站”下车。 然后步行10分钟到“山麓站前”。 再乘坐索道到山顶。<br>
 (从十字街到山麓站有一个陡峭的斜坡，请小心。)
 
-![](./images/snapshot_014156444.jpg)
+<img src="./images/snapshot_014156444.jpg" width=300px>
 
-![](./images/snapshot_014337445.jpg)
+<img src="./images/snapshot_014337445.jpg" width=300px>
 
 
 ### 1.2.4 五棱郭公园
 
-![五稜郭公园](./images/五稜郭公园.jpg)
-![五稜郭公园风景](./images/五稜郭公园_2.jpg)
+<img src="./images/五稜郭公园.jpg" width=300px>
+<img src="./images/五稜郭公园_2.jpg" width=300px>
 
 **地址**：北海道函館市五稜郭町44
 
@@ -198,7 +320,7 @@ https://hakodate-kanemori.com/
 
 五棱郭公园里还有一座箱馆奉行所。此地在电影里也有登场。箱馆奉行所是幕府在日本北边设立的役所，主要负责与外国交涉以及虾夷地(后更名为北海道)管理等业务。在幕府解体后，箱馆奉行所也迎来了终结。直至近代，才按照过去的历史资料等对箱馆奉行所进行了复原重建。现在的箱馆奉行所对一般民众开放，里面陈列了关于五棱郭以及箱馆战争的历史资料等。
 
-##### 五棱郭塔
+#### 五棱郭塔
 
 **地址**：北海道函館市五稜郭町43-9
 
@@ -248,7 +370,7 @@ https://hakodate-kanemori.com/
 
 ![](./images/snapshot_004714598.jpg)
 
-#### 1.1.6 函馆市营电车汤之川站
+### 1.1.6 函馆市营电车汤之川站
 
 ![alt text](./images/函馆市电.avif)
 
@@ -280,7 +402,7 @@ https://hakodate-kanemori.com/
 ![](./images/snapshot_002502821.jpg)
 
 
-#### 1.1.9 小丑汉堡
+### 1.1.9 小丑汉堡
 
 ![](./images/snapshot_005444281.jpg)
 
