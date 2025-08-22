@@ -1,7 +1,6 @@
 
 <img src="./images/日本地图截图.png">
 
-
 # 1 函馆
 <div align="center">
 <img src="./images/函馆各景点位置一览.png" alt="函馆各景点位置一览">
@@ -25,7 +24,7 @@
 
 <p align="center">
 	<img src="./images/金森红砖仓库.jpg" width=45%>
-	<img src="./images/snapshot_005441445.jpg" width=45%>
+	<img src="./images/snapshot_005441445.jpg" width=50%>
 </p>
 
 
@@ -72,16 +71,19 @@
 
 #### 西波止场（金森红砖仓库隔壁的港口）
 
-<img src="./images/snapshot_00.52.58.961.jpg" width=60%>
+<div align="center">
+<img src="./images/snapshot_00.52.58.961.jpg" width=70%>
+</div>
 
 **参考网站**
 https://hakodate-kanemori.com/
 
 ### 1.2.2 旧函馆区公会堂
 
-
-<img src="./images/旧函馆区公会堂.png" height=290px>
-<img src="./images/snapshot001031416.jpg" height=290px>
+<p align="center">
+	<img src="./images/旧函馆区公会堂.png" width=46%>
+	<img src="./images/snapshot001031416.jpg" width=52%>
+</p>
 
 **地址**：北海道函館市元町11番13号
 
@@ -112,19 +114,20 @@ https://hakodate-kanemori.com/
 2025年11月18日（周二）<br>
 2026年1月20日（周二）<br>
 
+</p>
+<img src="./images/旧函馆区1F.jpg" width=47% />
+<img src="./images/旧函馆区2F.jpg" width=47% />
+</p>
 
-![](./images/旧函馆区1F.jpg)
+</p>
+<img src="./images/旧函馆区快照.png" width=25% />
+<img src="./images/旧函馆区服饰店.png" width=36% />
+<img src="./images/旧函馆区纪念品店.png" width=36% />
+</p>
 
-![](./images/旧函馆区2F.jpg)
-
-![](./images/旧函馆区快照.png)
-
-![](./images/snapshot_001148243.jpg)
-
-![](./images/旧函馆区服饰店.png)
-
-![](./images/旧函馆区纪念品店.png)
-
+<div align="center">
+<img src="./images/snapshot_001148243.jpg" width=70%>
+</div>
 
 **公会堂的主要特色**
 ① 该建筑是明治时期西式木结构建筑的代表作，展现了融合日式技艺的西式建筑风格。<br>
@@ -133,30 +136,36 @@ https://hakodate-kanemori.com/
 该建筑于1974年被指定为国家重要文化遗产，并于1980年开始历时三年、耗资4亿日元的修复工程，于1983年起向公众开放。
 
 **旧公会堂的历史简介**
-- 1910年（明治43年）<br>
+- 1910年（明治43年）
 它最初是作为公众集会场所和商会办公楼而建造的。
 首任会长相马彻平捐赠了约5.8万日元的建筑费用中的5万日元。
 次年，即1911年，皇太子（后来的大正天皇）访问北海道期间曾下榻于此。
-- 大正时代至战时（1912-1945年）<br>
+- 大正时代至战时（1912-1945年）
 商会办公楼迁至此处，该公会堂也作为集会、庆典、音乐会、展览等场所广泛为公众所用。<br>
 1922 年摄政王（后来的昭和天皇）也曾在此行宫使用；<br>
 1927年（昭和2年），作家芥川龙之介和里见敦来此演讲。
-- 战后混乱时期（1945-1956）<br>
+- 战后混乱时期（1945-1956）
 在战后混乱时期，该大厅还被用作军事总部和医院，后来又成为海事事故法庭和林务局的所在地。<br>
 1954年洞爷丸台风期间，一楼餐厅曾举行过海事事故调查。
-- 1957-1979 <br>
+- 1957-1979
 它再次被用作公共集会场所。<br>
 门廊被修复，外墙被重新粉刷成粉色和白色。<br>
 作为明治时代的西式建筑，其历史价值得到了认可，并于1971年被指定为县有形文化财产，1974年被指定为国家重要文化财产。
-- 昭和维新（1980-1982）<br>
+- 昭和维新（1980-1982）
 首次的根本性保护和修复工程于1980年至1982年间进行。通过对建筑历史变迁的彻底调查，发现原公会堂的外墙原本是蓝灰色和黄色，建筑内部的房间布局也发生了变化。
-- 昭和维新后（1982-2018）<br>
+- 昭和维新后（1982-2018）
 1989 年天皇和皇后陛下访问北海道时，这里也曾作为行宫使用。<br>
 该建筑向居民和游客开放。<br>
 当时还提供服装租赁服务，让游客可以体验当时上流社会的魅力。它成为了该市著名的旅游景点之一，每年吸引约15万游客。<br>
 它还作为一个终身学习设施，举办音乐团体的音乐会和当地高中生的户外茶道。
 
-### 1.2.3 函馆山展望台（函馆山索道）
+### 1.2.3 十字街(去函馆山的路上)
+
+<div align="center">
+	<img src="./images/snapshot_00.38.21.361.jpg" width=70%>
+</div>
+
+### 1.2.4 函馆山展望台（函馆山索道）
 
 **地址**：北海道函馆市元町19-7
 
@@ -174,8 +183,8 @@ https://hakodate-kanemori.com/
 
 **函馆山夜景**
 
-<div>
-	<img src="./images/函馆山夜景.jpg" width=300px>
+<div align="center">
+	<img src="./images/函馆山夜景.jpg" width=70%>
 </div>
 
 
@@ -186,15 +195,17 @@ https://hakodate-kanemori.com/
 ③乘坐有轨电车，在“十字街站”下车。 然后步行10分钟到“山麓站前”。 再乘坐索道到山顶。<br>
 (从十字街到山麓站有一个陡峭的斜坡，请小心。)
 
-<img src="./images/snapshot_014156444.jpg" width=300px>
+</p align="center">
+<img src="./images/snapshot_014156444.jpg" width=47%>
+<img src="./images/snapshot_014337445.jpg" width=47%>
+</p>
 
-<img src="./images/snapshot_014337445.jpg" width=300px>
+### 1.2.5 五棱郭公园
 
-
-### 1.2.4 五棱郭公园
-
-<img src="./images/五稜郭公园.jpg" width=300px>
-<img src="./images/五稜郭公园_2.jpg" width=300px>
+</p align="center">
+<img src="./images/五稜郭公园.jpg" width=47%>
+<img src="./images/五稜郭公园_2.jpg" width=47%>
+</p>
 
 **地址**：北海道函館市五稜郭町44
 
@@ -206,7 +217,8 @@ https://hakodate-kanemori.com/
 步行：从五稜郭公园前电车站步行约15分钟。<br>
 驾车：从JR函馆站步行约15分钟。
 
-**历史简介**：五稜郭公园不仅仅是柯南剧场版的舞台，也是日本近代最大的内战——戊辰战争的战场之一。当时希望天皇重新执政的以萨摩藩、长州藩、土佐藩为主要构成的新政府军，和旧江户幕府军展开了一系列的战斗，最终以新政府军的胜利而告终。其中，1868年发生的“箱馆战争”就是在函馆的五稜郭这里激战，这是旧幕府军的榎本武扬、土方岁三最后的要塞。<br>
+**历史简介**：五稜郭公园不仅仅是柯南剧场版的舞台，也是日本近代最大的内战——戊辰战争的战场之一。当时希望天皇重新执政的以萨摩藩、长州藩、土佐藩为主要构成的新政府军，和旧江户幕府军展开了一系列的战斗，最终以新政府军的胜利而告终。其中，1868年发生的“箱馆战争”就是在函馆的五稜郭这里激战，这是旧幕府军的榎本武扬、土方岁三最后的要塞。
+
 随着时光的变迁，1530棵樱花树已经将曾经的战场，装扮成全新的公园。五角星的轮廓与春日的樱花相映成趣，春风吹过，樱花的花瓣飘落到水面上，形成了“花筏（はないかだ）”，也成了五稜郭公园的春日特别景观之一。一年四季公园都十分适合观景和散步，到了夜晚，也会有灯光亮起
 
 五棱郭公园里还有一座箱馆奉行所。此地在电影里也有登场。箱馆奉行所是幕府在日本北边设立的役所，主要负责与外国交涉以及虾夷地(后更名为北海道)管理等业务。在幕府解体后，箱馆奉行所也迎来了终结。直至近代，才按照过去的历史资料等对箱馆奉行所进行了复原重建。现在的箱馆奉行所对一般民众开放，里面陈列了关于五棱郭以及箱馆战争的历史资料等。
@@ -219,35 +231,33 @@ https://hakodate-kanemori.com/
 
 **门票**：1,200円（约为58.48人民币，具体以汇率为准）
 
-![五棱郭塔底层](./images/五棱郭塔底层.png)
+</p align="center">
+<img src="./images/五棱郭塔底层.png" width=47%>
+<img src="./images/五棱郭塔展望2层.png" width=47%>
+</p>
 
-![五棱郭塔展望2层](./images/五棱郭塔展望2层.png)
+</p align="center">
+<img src="./images/snapshot_005954422.jpg" width=32%>
+<img src="./images/snapshot_002245822.jpg" width=33%>
+<img src="./images/snapshot_010036879.jpg" width=32%>
+</p>
 
-![Goryokaku Tower](./images/Goryokaku_Tower.png)
+</p align="center">
+<img src="./images/snapshot_010045535.jpg" width=32%>
+<img src="./images/snapshot_005753519.jpg" width=33%>
+<img src="./images/snapshot_005703775.jpg" width=32%>
+</p>
 
-![](./images/snapshot_005954422.jpg)
-
-![](./images/snapshot_002245822.jpg)
-
-![](./images/snapshot_010036879.jpg)
-
-![](./images/snapshot_010045535.jpg)
-
-![](./images/snapshot_005753519.jpg)
-
-![](./images/snapshot_005703775.jpg)
-
-![](./images/snapshot_010030993.jpg)
-
-![](./images/snapshot_010034007.jpg)
-
-![](./images/snapshot_012110618.jpg)
-
-![](./images/snapshot_01.27.10.515.jpg)
+</p align="center">
+<img src="./images/snapshot_010030993.jpg" width=24%>
+<img src="./images/snapshot_010034007.jpg" width=25%>
+<img src="./images/snapshot_012110618.jpg" width=24%>
+<img src="./images/snapshot_01.27.10.515.jpg" width=24%>
+</p>
 
 参考网站：https://www.goryokaku-tower.co.jp/
 
-### 1.2.5 北海道东照宫
+### 1.2.6 北海道东照宫
 
 **地址**：函館市陣川町82-153
 
@@ -257,26 +267,29 @@ https://hakodate-kanemori.com/
 
 **参观时间**：9:00-16:00
 
-![alt text](./images/北海道东照宫.avif)
+</p align="center">
+<img src="./images/北海道东照宫.avif" width=48%>
+<img src="./images/snapshot_004714598.jpg" width=48%>
+</p>
 
-![](./images/snapshot_004714598.jpg)
+### 1.2.7 函馆市营电车汤之川站
 
-### 1.1.6 函馆市营电车汤之川站
-
-![alt text](./images/函馆市电.avif)
-
-![](./images/snapshot_003044522.jpg)
+</p align="center">
+<img src="./images/函馆市电.avif" width=44%>
+<img src="./images/snapshot_003044522.jpg" width=52%>
+</p>
 
 函馆市电自1913年开始运营，至今已有100多年的历史。它是东京以北第一条马拉铁路，后来根据公众需求进行了电气化，并经历了多次改造才发展到现在。<br>
 汤之川巴士站位于**汤之川温泉**的入口处，该温泉是北海道南部首屈一指的温泉胜地之一。
 
-### 1.2.7 八幡坂(坂道元町)
+### 1.2.8 八幡坂(坂道元町)
 
 ![alt text](./images/八幡坂冬.jpg)
 
-![](./images/snapshot_005124904.jpg)
-
-![](./images/snapshot_005153352.jpg)
+</p align="center">
+<img src="./images/snapshot_005124904.jpg" width=48%>
+<img src="./images/snapshot_005153352.jpg" width=48%>
+</p>
 
 **地址**：北海道函館市元町・末広町
 
@@ -284,54 +297,57 @@ https://hakodate-kanemori.com/
 
 **简介**：八幡坂是与函馆山夜景齐名的人气景点。据说，八幡坂的名字源于曾经位于山顶的函馆八幡宫。20世纪80年代，八幡坂作为电视广告的拍摄地而人气飙升，并被昵称为“魅力绿丘”。
 
-### 1.2.8 函馆早市
+### 1.2.9 函馆早市
 
 从JR函馆站步行约1分钟就可抵达。
 
-![](./images/snapshot_01.44.02.471.jpg)
+</p align="center">
+<img src="./images/snapshot_01.44.02.471.jpg" width=48%>
+<img src="./images/snapshot_002502821.jpg" width=48%>
+</p>
 
-![](./images/snapshot_002502821.jpg)
+
+### 1.2.10 小丑汉堡
+
+</p align="center">
+<img src="./images/snapshot_005444281.jpg" width=48%>
+<img src="./images/snapshot_005449150.jpg" width=48%>
+</p>
+
+</p align="center">
+<img src="./images/snapshot_005454038.jpg" width=48%>
+<img src="./images/snapshot_005504440.jpg" width=48%>
+</p>
+
+### 1.2.11 函馆警察署
+
+<img src="./images/snapshot_001941038.jpg">
+
+### 1.2.12 函馆普乐美雅凯宾总统酒店
+
+<img src="./images/snapshot_003749604.jpg">
 
 
-### 1.1.9 小丑汉堡
+</p align="center">
+<img src="./images/snapshot_003835348.jpg" width=48%>
+<img src="./images/snapshot_003859376.jpg" width=48%>
+</p>
 
-![](./images/snapshot_005444281.jpg)
+### 1.2.13 JR函馆站
 
-![](./images/snapshot_005449150.jpg)
+</p align="center">
+<img src="./images/snapshot_01.43.47.576.jpg" width=48%>
+<img src="./images/snapshot_01.43.49.803.jpg" width=48%>
+</p>
 
-![](./images/snapshot_005454038.jpg)
 
-![](./images/snapshot_005504440.jpg)
+### 1.2.14 新函馆北斗站
 
-### 1.1.10 函馆警察署
-
-![](./images/snapshot_001941038.jpg)
-
-### 1.1.11 函馆普乐美雅凯宾总统酒店
-
-![](./images/snapshot_003749604.jpg)
-
-![](./images/snapshot_003835348.jpg)
-
-![](./images/snapshot_003859376.jpg)
-
-### 1.1.12 JR函馆站
-
-![](./images/snapshot_01.43.47.576.jpg)
-
-![](./images/snapshot_01.43.49.803.jpg)
-
-### 1.1.13 十字街
-
-![](./images/snapshot_00.38.21.361.jpg)
-
-### 1.1.14 新函馆北斗站
-
-![](./images/snapshot_01.07.21.242.jpg)
-
-![](./images/snapshot_01.07.41.057.jpg)
-
-![](./images/snapshot_01.07.48.629.jpg)
+</p align="center">
+<img src="./images/snapshot_01.07.21.242.jpg" width=33%>
+<img src="./images/snapshot_01.07.41.057.jpg" width=32%>
+<img src="./images/snapshot_01.07.48.629.jpg" width=33%>
+</p>
 
 https://www.hakodate.travel/chs/courses/enjoy-exploring-hakodate-by-tram/
 
