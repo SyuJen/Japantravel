@@ -238,13 +238,13 @@ https://hakodate-kanemori.com/
 
 </p align="center">
 <img src="./images/snapshot_005954422.jpg" width=32%>
-<img src="./images/snapshot_002245822.jpg" width=33%>
+<img src="./images/snapshot_002245822.jpg" width=32%>
 <img src="./images/snapshot_010036879.jpg" width=32%>
 </p>
 
 </p align="center">
 <img src="./images/snapshot_010045535.jpg" width=32%>
-<img src="./images/snapshot_005753519.jpg" width=33%>
+<img src="./images/snapshot_005753519.jpg" width=32%>
 <img src="./images/snapshot_005703775.jpg" width=32%>
 </p>
 
@@ -344,9 +344,9 @@ https://hakodate-kanemori.com/
 ### 1.2.14 新函馆北斗站
 
 </p align="center">
-<img src="./images/snapshot_01.07.21.242.jpg" width=33%>
+<img src="./images/snapshot_01.07.21.242.jpg" width=32%>
 <img src="./images/snapshot_01.07.41.057.jpg" width=32%>
-<img src="./images/snapshot_01.07.48.629.jpg" width=33%>
+<img src="./images/snapshot_01.07.48.629.jpg" width=32%>
 </p>
 
 https://www.hakodate.travel/chs/courses/enjoy-exploring-hakodate-by-tram/
@@ -361,11 +361,22 @@ https://www.hakodate.travel/chs/courses/enjoy-exploring-hakodate-by-tram/
 
 # 2 京都
 
-[日本国家旅游局](https://www.japan-travel.cn/destinations/kansai/kyoto/)
-
 京都，是位于日本近畿地方（是日本本州岛中西部的地理区域）的都市。794年，桓武天皇以中国长安城为模板，建成“平安京”，并从长冈京迁都于此。在1869年迁都江户（东京）之前，京都一直是日本的政治与文化中心，被视作日本人的精神故乡。
 
 ## 2.1 路线计划
+
+10:00 花見小路
+10:30～11:30 八坂神社
+12:00～13:30 宮川豚衛們（吃隱藏版炸豬排）
+13:40～14:00 安井金比羅宮
+14:10～14:30 八坂庚申堂
+14:40～15:30清水坂逛街吃東西
+15:30～17:00 清水寺
+17:00～前往京都車站
+
+<center>
+	<img src="./images/清水寺一日遊地圖-min.png" width=85%/>
+</center>
 
 ## 2.2 景点
 
@@ -373,10 +384,49 @@ https://www.hakodate.travel/chs/courses/enjoy-exploring-hakodate-by-tram/
 
 <img src="./images/M07_snapshot_000939405.jpg">
 
-### 2.2.2 清水寺
+### 2.2.2 八坂神社
 
 **地址**
-〒605-0862 京都市東山区清水1丁目294
+
+京都市东山区只园町北川 625 号
+
+**门票**
+免费
+
+**历史**
+
+被京都人以拟人化昵称为「祇园さん」的八坂神社，是祈愿疾病退散的「祇园神社」总本社。
+
+这座神社的历史至少可以追溯到公元876年，当时圆城和尚邀请了掌管疾病预防的牛头天王来到神社，试图阻止当时京都居民遭受的流行病和其他灾难。这也是著名的祇园祭的起源。祇园祭的特色是华丽的花车和身着古装的人们组成的热闹游行队伍，最终在八坂神社结束。
+
+<center>
+	<img src="./images/Kyoto1072_5.jpg" width=85%/>
+
+</center>
+
+<center>
+	<img src="./images/snapshot_0856159.jpg" width=48%/>
+	<img src="./images/snapshot_0903050.jpg" width=48%/>
+</center>
+
+### 2.2.3 花见小路
+
+花见小路北起三条通，南至安井北门通约1公里，是贯穿祇园的主要通道。
+
+<center>
+	<img src="./images/yasakazinzya33479717_M.jpg.webp" width=85%/>
+</center>
+
+- 禁止对艺妓拍照
+- 禁止对周边的私人道路拍照（有禁止拍照的立牌）
+
+### 2.2.4 清水寺
+
+**地址**
+京都市東山区清水1丁目294
+
+**门票**
+500日元（约24.29元人民币）
 
 **交通方式**：
 可从京都站乘巴士前往清水寺。
@@ -389,41 +439,33 @@ https://www.hakodate.travel/chs/courses/enjoy-exploring-hakodate-by-tram/
 **地图**
 
 <div align="center">
-	<img src="./images/map_img.jpg" width=85%/>
+	<img src="./images/清水寺地圖1-min.png" width=85%/>
 </div>
 
-**本殿**
+#### 仁王门
+
+#### 三重塔
+
+#### 本殿
 这座位于清水寺的国宝建筑建于江户时代初期。
-本尊为十一面千手千眼观音立像，供奉于国宝神社，被视为秘传佛像。寺院每33年开放一次大门，这是惯例。最近一次公开瞻仰是在2000年。
-
-**子安塔**
-子安塔位于清水寺本殿对面，隔着鬼火溪谷的山丘上。这座三重塔（重要文化遗产）通体朱漆，覆以柏树皮，重建于室町时代后期。子安塔是清水寺的分寺，名为泰山寺，寺内供奉着一尊千手观音。据寺内传说，圣武天皇和光明皇后曾向这尊观音祈祷，祈求光明皇后平安降生，因此建造了这座塔以表达他们的感激之情
-
-**渡船匾额（绘马）**
-不对外开放
-
-**狛犬（护卫犬）**
-
-**音羽瀑布**
-
-**木造十一面观音**
-不对外开放
-
-**十一面千手观音菩萨**
+本尊为十一面千手千眼观音立像，供奉于国宝神社，被视为秘传佛像。寺院每33年开放一次大门，这是惯例。最近一次公开瞻仰是在2000年，下一次是2033年。
 
 <div align="center">
-	<img src="./images/pray_ph_01.webp" width=85%/>
+	<img src="./images/pray_ph_01.webp" width=45%/>
+	<img src="./images/snapshot_0938392.jpg" width=53%/>
 </div>
 
 清水寺是观世音菩萨的圣地。其本尊是“十一面千手观音菩萨”。这尊观世音菩萨拥有十一种面容和四十二条手臂，象征着大慈悲，能够拯救众生脱离困境。它被人们奉为祈求健康、事业进步、人缘好等世俗福祉的圣物，因此自古以来就被人们亲切地称为“清水观音”。
 
-**舞台**
+#### 清水舞台
 
 <div align="center">
 	<img src="./images/hall_ph_01.webp" width=85%/>
 </div>
 
 从本殿延伸而出的“舞台”高约13米，相当于四层楼高。这个舞台是供奉清水寺本尊观世音菩萨的表演场所。舞台建于音羽山的陡峭悬崖之上，这种被称为“悬筑”的传统日本建筑工法，即使在施工困难的悬崖上也能建造抗震结构。
+
+日本有一句知名谚语——从清水舞台跳下去(清水の舞台から飛び降りる)，清水舞台过去以高度而闻名，从清水舞台跳下去指的是「破釜沉舟的決心」的意思
 
 舞台由18根埋在地下的柱子支撑。这些柱子由树龄超过400年的榉树制成，最大的柱子长约12米，周长约2米。柱子上横竖穿插着无数根横木。这种巧妙的木块连接方式被称为“承接”，无需一根钉子。现在的舞台重建于1633年。它经历了历史上的无数次灾害，如今依然支撑着这座每天都熙熙攘攘、熙熙攘攘的舞台。
 
@@ -436,9 +478,6 @@ https://www.hakodate.travel/chs/courses/enjoy-exploring-hakodate-by-tram/
 			<img src="./images/spring_ph_01.webp"/ width=62%>
 			<img src="./images/spring_ph_03.webp"/ width=37%>
 		</p>
-		<center>
-			<img src="./images/spring_ph_04.webp"/ width=70%>
-		</center>
 	</div>
 	<div>
 		<center class="season_font summer">
@@ -453,7 +492,8 @@ https://www.hakodate.travel/chs/courses/enjoy-exploring-hakodate-by-tram/
 			<font size=78px>秋</font>
 		</center>
 		<p>
-			<img src="./images/autumn_ph_01.webp"/ width=48%>
+			<img src="./images/autumn_ph_01.webp"/ width=44%>
+			<img src="./images/snapshot_0124581.jpg"/ width=53%>
 		</p>
 	</div>
 	<div>
@@ -461,13 +501,31 @@ https://www.hakodate.travel/chs/courses/enjoy-exploring-hakodate-by-tram/
 			<font size=78px>冬</font>
 		</center>
 		<p>
-			<img src="./images/winter_ph_03.webp" width=48% />
-			<img src="./images/winter_ph_02.jpg" width=48%/>
+			<img src="./images/winter_ph_03.webp" width=52% />
+			<img src="./images/winter_ph_02.jpg" width=45%/>
 		</p>
 	</div>
 </div>
 
-### 2.2.3 五条大桥
+
+#### 子安塔
+子安塔位于清水寺本殿对面，隔着鬼火溪谷的山丘上。这座三重塔（重要文化遗产）通体朱漆，覆以柏树皮，重建于室町时代后期。子安塔是清水寺的分寺，名为泰山寺，寺内供奉着一尊千手观音。据寺内传说，圣武天皇和光明皇后曾向这尊观音祈祷，祈求光明皇后平安降生，因此建造了这座塔以表达他们的感激之情
+
+<center>
+	<img src="./images/spring_ph_04.webp"/ width=70%>
+</center>
+
+#### 音羽瀑布
+
+<center>
+	<img src="./images/音羽瀑布.jpg" width=85%/>
+</center>
+
+在清水舞台的下方，有一个小神坛。音羽山上流下来的泉水经过神坛顶端留下来，形成三道小瀑布。
+
+面对音羽山看这三道小瀑布，由左至右分别代表「学业」、「恋爱」、「长寿」。你只能选择一道瀑布的泉水饮用（音羽山上的泉水很干净，可以饮用），一次只能喝一口。
+
+### 2.2.5 五条大桥
 
 <p>
 	<img src="./images/vlcsnap-2025-08-23-13h49m30s348.png" width=48%/>
@@ -476,7 +534,7 @@ https://www.hakodate.travel/chs/courses/enjoy-exploring-hakodate-by-tram/
 	左图为牛若丸弁慶像(牛若丸辨庆像)
 </p>
 
-### 2.2.4 弁(biàn)庆石
+### 2.2.6 弁(biàn)庆石
 
 <div align="center">
 <img src="./images/vlcsnap-2025-08-23-13h55m48s218.png" width=85% />
@@ -492,7 +550,7 @@ https://www.hakodate.travel/chs/courses/enjoy-exploring-hakodate-by-tram/
 
 弁庆石 - 传说弁庆经常坐在这块石头上，也有人说这块石头是弁庆从叡(rui)山扔下来的。
 
-### 2.2.5 蹴上斜坡铁道
+### 2.2.7 蹴上斜坡铁道
 
 东西向的京都地铁往东坐到**蹴上车站**。**蹴上斜坡疏水公园**本来是一个水利设施，是琵琶湖水利工程的一个遗址，铁道和公园内的一些管道都是为了修建水利设施而建设的。铁道是废弃的。
 
@@ -507,7 +565,7 @@ https://www.hakodate.travel/chs/courses/enjoy-exploring-hakodate-by-tram/
 </p>
 </div>
 
-### 2.2.6 六角堂
+### 2.2.8 六角堂
 
 从**蹴上斜坡**回来以后可以乘坐东西线到达**乌丸御池车站**，从乌丸御池出来之后向南走三个路口向左转进去就是**六角堂**了。
 
@@ -523,7 +581,7 @@ https://www.hakodate.travel/chs/courses/enjoy-exploring-hakodate-by-tram/
 	<img src="./images/vlcsnap-2025-08-23-19h52m45s301.png" width=48% />
 </div>
 
-### 2.2.7 佛光寺
+### 2.2.9 佛光寺
 
 离开六角堂继续往南走过了四条站两个路口之后往巷子里走就到了佛光寺
 
@@ -532,18 +590,18 @@ https://www.hakodate.travel/chs/courses/enjoy-exploring-hakodate-by-tram/
 	<img src="./images/d2ecd793ef301d52564dff46d721ae247ea9cea9.jpg" width=42%/>
 </p>
 
-### 2.2.8 戻(tì)桥
+### 2.2.10 戻(tì)桥
 
 沿着二条城东边对面的路向北走的就可以看到这个戻桥的路口
 
 <p>
-	<img src="./images/vlcsnap-2025-08-23-14h00m11s198.png" width=33%/>
+	<img src="./images/vlcsnap-2025-08-23-14h00m11s198.png" width=32%/>
 	<img src="./images/vlcsnap-2025-08-23-19h53m37s380.png" width=32%/>
-	<img src="./images/vlcsnap-2025-08-23-19h53m45s433.png" width=33%/>
+	<img src="./images/vlcsnap-2025-08-23-19h53m45s433.png" width=32%/>
 </p>
 
 
-### 2.2.7 伏见稻荷大社
+### 2.2.11 伏见稻荷大社
 
 **地址**
 68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto, 612-0882日本
@@ -582,15 +640,24 @@ https://www.hakodate.travel/chs/courses/enjoy-exploring-hakodate-by-tram/
 	<img src="./images/093c89de35a8c86af8895eed2b09d275.jpg" />
 </div>
 
-### 无邻庵(an)
 
-### 建仁寺
 
-### 将军塚(zhong)青龙殿
+### 2.2.12 锦市场
 
-### 锦市场
+到了江户时代（西元1615年），「锦之店」（即现在的锦市场）与京都的「上之店」、「六条店」同被幕府认定为拥有特权的「鱼批发市场」之一。来到昭和时代成为「京都的厨房」，并发展成商店街。
 
-### 京都塔
+锦贸易集市位于一条长约400米、宽仅3.9米的狭长街道内，百余家店铺鳞次栉比。锦市场贩卖各种新鲜与腌渍食品，包括特色鸭货、日式甜点和各种腌渍食品。您也可以在这里买到绝佳的厨房用具、雅致的瓷器、佐料与纸制商品。
+
+![alt text](H_00480_002.jpg)
+
+江户时代（1716年）诞生在锦市场的天才画师伊藤若冲。从市场入口到天花板上挂的帆布旗，还有店家的铁卷门上，都是伊藤若冲的画作。他的不少作品被指定为日本国宝，而且是日本皇室「宫内厅」的重磅馆藏！
+
+**美食举例**
+富美家 - 锅烧乌龙面
+三木鶏卵 - 日式高汤蛋卷
+田中鸡卵 - 玉子烧
+Kari Kari 博士 - 章鱼烧
+木村鲜鱼店 - 新鲜海产
 
 ### 四条通
 
@@ -599,8 +666,6 @@ https://www.hakodate.travel/chs/courses/enjoy-exploring-hakodate-by-tram/
 ### 2.2.5 嵐山竹林
 
 ### 2.2.6 金閣寺
-
-### 2.2.7 八坂神社
 
 ### 2.2.8 東寺
 
@@ -611,9 +676,9 @@ https://www.hakodate.travel/chs/courses/enjoy-exploring-hakodate-by-tram/
 </div>
 
 <p>
-	<img src="./images/vlcsnap-2025-08-23-14h13m04s521.png" width=33%/>
+	<img src="./images/vlcsnap-2025-08-23-14h13m04s521.png" width=32%/>
 	<img src="./images/vlcsnap-2025-08-23-14h23m51s676.png" width=32%/>
-	<img src="./images/vlcsnap-2025-08-23-14h06m37s356.png" width=33%/>
+	<img src="./images/vlcsnap-2025-08-23-14h06m37s356.png" width=32%/>
 </p>
 
 <p>
@@ -649,6 +714,114 @@ https://www.hakodate.travel/chs/courses/enjoy-exploring-hakodate-by-tram/
 </div>
 
 源义经是日本家喻户晓、最具人气的英雄人物，曾协助其兄**源赖朝**获得了对整个日本的统治权（镰仓幕府）。因其功高震主以及出色的才能，后来遭到既是兄长也是主君的**源赖朝**的猜忌，经过一系列复杂的政治斗争和战斗，最后含冤而死。
+
+### 建仁寺
+
+**门票**
+800日元(约38.96人民币)
+
+建仁寺是由一位从中国带来多种茶叶的僧侣创建的。寺院内矗立着一座石像，上面用汉字写着“茶之碑”。
+
+建仁寺与日本的两位禅宗「大师」有密不可分的关系。**荣西和尚**创立临济宗，是将佛教禅宗传入日本的第一人，**道元**则创立了曹洞宗禅法。两位禅师在 1200 年代早期，不远千里地跋山涉水到中国，并将佛教禅宗传回日本。这两位禅师皆长眠于建仁寺。
+
+建仁寺的现址可追溯至 13 世纪，是少数仅存的 13 世纪遗址。寺庙原本的建筑和多数的京都建筑物一样，皆在大火中付之一炬。
+
+建仁寺里最古老的建筑就是矢立门 (Arrow Gate)；这个名称来自于门上的箭孔，是在让大部分京都烧毁殆尽的应仁之乱（1467 - 1477 年）中所留下的痕迹。
+
+<div align="center">
+	<p>
+		<img src="./images/gund0e000000061f.jpg" width=48% />
+		<img src="./images/20190422203338_17.jpg" width=48% />
+	</p>
+	<p>
+		<img src="./images/20210813_023926_64a9a8eb_w640.webp" width=33% />
+		<img src="./images/20210813_023931_d1412b55_w640.webp" width=33% />
+		<img src="./images/20210813_023933_0c32eee8_w640.webp" width=31% />
+	</p>
+</div>
+
+建仁寺里到处都是重要的艺术与设计作品，包括画作、雕塑，以及一个禅意花园。
+
+在这里可以欣赏到的最知名作品，就是俵屋宗达壮丽的风神雷神图屏风（复制品，原作现藏于京都国立博物馆）。进入主殿后，天花板上的双龙壁画是较近代的作品。
+
+### 京都塔
+
+**门票**
+900日元（约43.81元人民币）
+
+**营业时间**
+|楼层|时间|
+|-|-|
+|2F|10:00 ~ 19:00|
+|1F|10:00 ~ 21:00|
+|B1F|11:00 ~ 23:00|
+
+|楼层||
+|-|-|
+|B1~2F|商店|
+|1~3F| 餐厅 Saikatei |
+|4F| 餐饮 DANIEL'S LUCE、關西旅遊資訊服務中心京都|
+|5~9F|京都塔酒店|
+|10F|餐饮 ROOFTOP BAR & BBQ|
+|展望室 3F|天空休息室“ KUU”|
+|展望室 4F、5F||
+
+![alt text](re_kv01.jpg)
+
+京都塔竣工于第一次东京奥运的举办年1964年。自2024年4月1日起更名为「Nidec京都塔（ニデック京都タワー）」，即“日本电产京都塔”。
+
+位于主塔展望室4楼・5楼的「Nidec京都塔展望室」，可体验地面高度100ｍ的美景。（望远镜免费）
+由于展望室的360度均为玻璃帷幕，可将高楼大厦不多的京都每个角落的街景都一览无遗，绝佳的眺望视野是其魅力所在。
+清水寺、东寺等京都最具代表性的国宝・世界遗产也可尽收眼底。
+
+### 将军塚(zhǒng)青龙殿
+
+**景色一般般，感觉可以不去**
+
+**门票**
+600日元（约29.21元人民币）
+
+**历史简介**
+
+将军冢青龙殿，在京都市山科区的东山山顶。
+
+据说那里就是古老京都的起源。8世纪中叶，桓武天皇来到此地为新都选址，由于登高远望之景甚得天皇喜爱，于是在 794 年下令修建京都城。
+
+- 龙殿和大日堂都是山脚处青莲院的一部分。
+- 桓武天皇修建的一个两米高的坟丘。
+- 在将军冢内埋下了一座身披盔甲的将军雕像，随附铁弓、宝剑和利箭，用以护佑京都。
+
+**路线**
+从临四条街的八坂神社 出发穿过圆山公园，先到达知恩院 和青莲院，最后来到将军冢。
+
+### 无邻庵(an)
+
+**地址**
+京都市左京区南禅寺草川町31番地
+
+**参观需提前预约**
+https://murin-an.jp/cn/info-2/
+
+**门票**
+2026年
+1月1日(四)～1月3日(六)：1000日元
+3月28日(六)～3月31日(二)：1000日元（约48.70人民币）
+其他日期600日元（约29.22人民币）
+600日元
+
+**如需摄影，请在摄影前申请摄影资格并支付费3万日元（约1461.09）摄影费**
+
+<div align="center">
+	<img src="./images/Kyoto1064_1_750x503.jpg" width=85% />
+</div>
+
+无邻庵是散步花园，是政治家山县有朋（1838 年 - 1922 年）在日本实行快速现代化计划时，建造无邻庵以作为自己的退休别苑，同时流露出对西洋建筑风格的喜好。
+
+这座庭园由小川治兵卫 (Ogawa Jihei)（1860 年 - 1933 年）设计，他是知名园艺家族的第七代园艺大师。
+
+是京都游客最少的景点
+
+山县有朋是明治维新的重要人物，他终止了长达 264 年的幕府政权，并以由天皇领导的新政体取而代之。山县有朋最初反对开放日本与外国进行贸易。不过，在意识到日本无力反抗西方军事武力后，他便以首相身份着手进行日本军队的现代化建设。
 
 
 ## 2.3 美食
