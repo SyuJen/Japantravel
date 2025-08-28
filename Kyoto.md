@@ -2,8 +2,11 @@
 
 京都，是位于日本近畿地方（是日本本州岛中西部的地理区域）的都市。794年，桓武天皇以中国长安城为模板，建成“平安京”，并从长冈京迁都于此。在1869年迁都江户（东京）之前，京都一直是日本的政治与文化中心，被视作日本人的精神故乡。
 
+![alt text](./images/kyoto_map_des.png)
+
 ## 2.1 路线计划
 
+(别人的路线参考，目前未做详细计划)
 10:00 花見小路
 10:30～11:30 八坂神社
 12:00～13:30 宮川豚衛們（吃隱藏版炸豬排）
@@ -247,8 +250,7 @@
 ### 2.2.11 伏见稻荷大社
 
 **地址**
-68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto, 612-0882日本
-(京都市伏见区深草薮(sǒu)之内町68号)
+都市伏见区深草薮(sǒu)之内町68号
 
 **门票**
 免费
@@ -287,7 +289,7 @@
 
 **注意商店晚上大概8、9点就关门了**
 
-参考笔记：https://gototravel.tw/kawaramachi-shopping-street/
+[参考笔记](https://gototravel.tw/kawaramachi-shopping-street/)
 
 <div align="center">
 	<img src="./images/f_28419697_1.png" width=90% />
@@ -423,6 +425,9 @@ Kari Kari 博士 - 章鱼烧
 
 ### 2.2.14 鞍馬寺
 
+**游览建议**
+好远啊我的天
+
 <div align="center">
 	<img src="./images/vlcsnap-2025-08-23-14h11m01s564.png" width=85% />
 </div>
@@ -487,7 +492,7 @@ Kari Kari 博士 - 章鱼烧
 *周四闭馆。
 *11月起的高峰期，出于安全考虑，博物馆将实行单向通行。部分房间（川端厅和丸堂厅）禁止拍摄人像。
 
-**提前预约**：https://yusai.kyoto/reserve/reserve?courseIds=5632499082330112&courseIds=4880318867701760
+[提前预约](https://yusai.kyoto/reserve/reserve?courseIds=5632499082330112&courseIds=4880318867701760)
 
 1990年，**奥田祐斋**对京都太秦广隆寺珍藏的历代天皇「黄栌染御袍」展开研究，发现了举世无双的独特工艺——
 阳光之下 色彩幻变
@@ -700,7 +705,7 @@ Kari Kari 博士 - 章鱼烧
 看了看抖音感觉一般
 
 **门票**
-因时间段有所不同，下列出的作为参考，具体见 https://toji.or.jp/admission/
+因时间段有所不同，下列出的作为参考，[具体见](https://toji.or.jp/admission/)
 
 |||
 |-|-|
@@ -742,8 +747,7 @@ Kari Kari 博士 - 章鱼烧
 **地址**
 京都市左京区南禅寺草川町31番地
 
-**参观需提前预约**
-https://murin-an.jp/cn/info-2/
+[参观需提前预约](https://murin-an.jp/cn/info-2/)
 
 **门票**
 2026年
