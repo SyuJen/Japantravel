@@ -1,3 +1,27 @@
+<style>
+    .container::after {
+        content: "";
+		display: table;
+        clear: both;
+    }
+	h5 {
+		text-align: center;
+	}
+	.left_content{
+		width: 48%;
+		float:left;
+	}
+	.right_content{
+		width: 48%;
+		float:right;
+	}
+	.left_content img, .right_content img{
+		display: block;
+		margin: 0 auto;
+	}
+</style>
+
+
 # 东京 Toyko
 
 东京，旧名江户（即“河口”之意，起源于隅田川流入当时称为“江户内海”的东京湾）。
@@ -156,19 +180,86 @@
 <img src="./images/晴空塔拍摄机位-5.png" width=47%/>
 
 
-### 浅草 浅草寺
+### 浅草寺
 
-浅草寺在二战期间被炸毁，于1960年重建
+**无需门票，与晴空塔、秋叶原相近**
 
-![alt text](浅草寺地图.jpg)
+东京最古老的寺院。江户时代的初期，由德川家康公决定幕府的祈福所之后，堂塔的威容更进一步完善，作为江户文化的中心繁荣起来。
 
-![alt text](visit_img01_l.jpg)
+主佛是圣观世音菩萨。观音有11面、1000手、如意轮等各种姿态，圣观音是其基本。
 
-#### 雷门(风雷神门)
+浅草寺在二战期间被炸毁，于1960年重建。
 
-天庆5年(942年)由陈平公雅创建的浅草寺的正门。 供奉着**风神和雷神**这2位神仙，是为了守护伽蓝和防止风灾与水灾而除難的一种护法善神。现在的门代替了庆应元年(1865年)田原町大火而烧毁的门，1960年，时隔95年，由**松下电器**创始人松下幸之助捐赠重建而成。
+<center>
+	<img src="./images/浅草寺地图.jpg" width=70%>
+</center>
 
-再外侧是长达250米的**仲见世商业街**
+<div class="container">
+	<div class="left_content">
+		<h5>正殿（观音堂）</h5>
+		<img src="./images/visit_img01_l.jpg" alt="" width=70% />
+		<div>1958年，在全国信徒的帮助下重建的现本堂是1945年3月10日在战灾中烧毁的旧本堂(国宝，德川家光建立)相同形态。 屋顶的斜坡非常陡，其特点是与其他寺院相比，楼高得多。
+	佛堂面向南方，分为内阵和外阵，内阵中心有供奉主佛观世音菩萨的御宫殿。</div>
+	</div>
+	<div class="right_content">
+		<h5>影向堂（御朱印所）</h5>
+		<img src="./images/visit_img02_l.jpg" alt="" width=70% />
+		<div>对于观音的说法和活跃表现，赞颂合作的佛法被称为”影子向众”。 供奉着作为每个人的出生年守本尊的8尊佛。
+这里授予浅草寺的御朱印。</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="left_content">
+		<h5>淡岛堂</h5>
+		<img src="./images/visit_img03_l.jpg" alt="" width=70% />
+		<div>于元禄年间(1688至1704年)请来和歌山加太的淡岛明神，建立佛堂。 中尊有阿弥陀如来像，两侧坛保护淡岛明神和虚空藏菩萨。 这个寺院在战后不久就是临时正殿，1994年通过曵屋作业迁移到现在的所在地，直到今天。</div>
+	</div>
+	<div class="right_content">
+		<h5>五重塔</h5>
+		<img src="./images/visit_img04_l.jpg" alt="" width=70% />
+		<div>天庆5年(942年)由陈平公雅创建。德川家光建造的旧国宝五重塔因1945年3月10日的战火而被烧毁。得到各位信徒的帮助，从斯里兰卡的王立寺劝佛舍利，于1973年重建。</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="left_content">
+		<h5>传法院</h5>
+		<img src="./images/visit_img05_l.jpg" alt="" width=70% />
+		<div>浅草寺本坊・传法院是”客殿”、”大玄关”、大小的”书院”和贯颈大僧正的”御宅”等的总称。殿是当山的回向道场・修行道场。庭园是江户初期的小堀远州作的传话式庭园(非公开)</div>
+	</div>
+	<div class="right_content">
+		<h5>二天门</h5>
+		<img src="./images/visit_img06_l.jpg" alt="" width=70% />
+		<div>创建于元和4年。当初是位于寺院内的东照宫的随身门，现在的门是于庆安2年(1649年)重建的浅草寺的东门。经过平成的修复，恢复了当初建立时的面貌。 其名字来源于祭祀增长天·持国天的2天。</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="left_content">
+		<h5>宝藏门（旧称仁王门）</h5>
+		<img src="./images/visit_img07_l.jpg" alt="" width=70% />
+		<div>天庆5年(942年)由陈平公雅创建的山门。由德川家光进行迦藍的捐赠建立，仁王门是庆安2年的落庆。现在的大门由大谷重工业酒店新大谷创始人大谷米太郎先生的捐赠于1964年重建</div>
+	</div>
+	<div class="right_content">
+		<h5>雷门（风雷神门）</h5>
+		<img src="./images/visit_img08_l.jpg" alt="" width=70% />
+		<div>天庆5年(942年)由陈平公雅创建的浅草寺的正门。 供奉着风神和雷神这2位神仙，是为了守护伽蓝和防止风灾与水灾而除難的一种护法善神。现在的门代替了庆应元年(1865年)田原町大火而烧毁的门，1960年，时隔95年，由松下电器创始人松下幸之助捐赠重建而成。</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="left_content">
+		<h5>仲见世通</h5>
+		<img src="./images/visit_img09_l.jpg" alt="" width=70% />
+		<div>是日本最古老的商业街之一，销售传统的玩具和点心等特产。</div>
+	</div>
+	<div class="right_content">
+		<h5>弁天堂</h5>
+		<img src="./images/visit_img10_l.jpg" alt="" width=70% />
+		<div>本尊是白发的老女在天，作为”关东3弁天”的灵名也很高。院内钟楼钟由元禄5年(1692年)德川纲吉命改铸而成。江户时代的”时之钟”之一，松尾芭蕉的短语”花之云是在上野或是浅草”而闻名的钟声。</div>
+	</div>
+</div>
 
 ### 东京巨蛋
 
