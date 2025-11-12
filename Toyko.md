@@ -676,15 +676,63 @@
 
 ### 皇居
 
-东京皇居，是德川城堡基础上改的旧皇宫，二战期间被炸毁。
+免费参观，可[预约](https://sankan.kunaicho.go.jp/multilingual/lang/tw/information.html)（200人次），也可现场报名（300人次）
+
+占地面积**17万㎡**（故宫是72万㎡），约逛1小时
+
+**冬天**前往东京旅游，则可安排在 1 月 2 日到皇居参观新年接见。皇居的大门会在特殊场合时打开，让游客进入内苑欣赏令人赞叹的美景，同时观看皇室家族接见臣民的情形。
+
+**东京皇居的历史背景**
+
+前身：江户城
+东京皇居位于东京都千代田区，其前身是德川幕府的统治中心——江户城。**明治维新（1868年）**后，明治政府推翻幕府，将首都从京都迁至江户，并改名为“东京”，江户城随之成为天皇的新居所，即“皇居”。
+
+从京都到东京的迁都
+1868年，明治天皇发布《东京行幸诏书》，正式迁都东京。这一举动标志着政治权力从传统贵族和寺院聚集的京都，转移至现代化改革的中心东京。
+
+皇居占了江户城的主要部分。皇居各处至今仍可见流露出江户城风情的城濠、土垒、石墙、箭楼、城门等。
+
+二战期间曾被炸毁，重建后仍保留明治时代的布局。
+
+![alt text](map1.png)
+
+桔梗門 - 石垣 - 富士見櫓(富士望樓) - 宮內廳廳舍
+<center>
+	<img src="./images/Toyko/t01.jpg" width=23%/>
+	<img src="./images/Toyko/t02-3.jpg" width=23%/>
+	<img src="./images/Toyko/t13-2.jpg" width=23%/>
+	<img src="./images/Toyko/t04.jpg" width=23%/>
+</center>
+
+松塔 - 宫殿 - 南侧庭院 - 二重桥
+<center>
+	<img src="./images/Toyko/t05.jpg" width=23%/>
+	<img src="./images/Toyko/t06.jpg" width=23%/>
+	<img src="./images/Toyko/t07-2.jpg" width=23%/>
+	<img src="./images/Toyko/Tokyo2249_16.jpg" width=23%/>
+</center>
+
+伏見櫓望樓 - 北门口 - 山下街 - 莲池护城河
+<center>
+	<img src="./images/Toyko/t13-3.jpg" width=23%/>
+	<img src="./images/Toyko/t10-4.jpg" width=23%/>
+	<img src="./images/Toyko/t11-4.jpg" width=23%/>
+	<img src="./images/Toyko/t12.jpg" width=23%/>
+</center>
+
+
 
 ### 东京站
 
-东京站旁边的美术馆，是日剧《半泽直树》银行的原型
+东京站旁边的【三菱一号馆 美术馆】，是日剧《半泽直树》银行的原型
 
 <center>
 	<img src="./images/Toyko/東京駅_R.webp" width=85%/>
 </center>
+
+![alt text](bg_loading.jpg)
+![alt ext](bg_top.jpg)
+![alt text](bg_history.jpg)
 
 ### 池袋
 
