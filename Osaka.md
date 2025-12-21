@@ -1,5 +1,5 @@
 
-![](./images/Osaka/image.png)
+![](./images/Osaka/Osaka_map.png)
 
 # 天守阁
 
